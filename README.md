@@ -1,5 +1,5 @@
-# FACEIT Enhancer
-
+# FACEIT Enhancer Additions
+(will soon) Make some changes to FACEIT Enhancer, such as customisable amount of recent games
 > Browser extension that enhances the FACEIT experience and adds useful features
 
 # Development
